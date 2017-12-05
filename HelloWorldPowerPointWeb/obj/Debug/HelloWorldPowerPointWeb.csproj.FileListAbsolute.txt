@@ -1,0 +1,9 @@
+c:\users\mselmer\documents\visual studio 2017\Projects\HelloWorldPowerPoint\HelloWorldPowerPointWeb\bin\HelloWorldPowerPointWeb.dll.config
+c:\users\mselmer\documents\visual studio 2017\Projects\HelloWorldPowerPoint\HelloWorldPowerPointWeb\bin\HelloWorldPowerPointWeb.dll
+c:\users\mselmer\documents\visual studio 2017\Projects\HelloWorldPowerPoint\HelloWorldPowerPointWeb\bin\HelloWorldPowerPointWeb.pdb
+c:\users\mselmer\documents\visual studio 2017\Projects\HelloWorldPowerPoint\HelloWorldPowerPointWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mselmer\documents\visual studio 2017\Projects\HelloWorldPowerPoint\HelloWorldPowerPointWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mselmer\documents\visual studio 2017\Projects\HelloWorldPowerPoint\HelloWorldPowerPointWeb\obj\Debug\HelloWorldPowerPointWeb.csprojResolveAssemblyReference.cache
+c:\users\mselmer\documents\visual studio 2017\Projects\HelloWorldPowerPoint\HelloWorldPowerPointWeb\obj\Debug\HelloWorldPowerPointWeb.csproj.CoreCompileInputs.cache
+c:\users\mselmer\documents\visual studio 2017\Projects\HelloWorldPowerPoint\HelloWorldPowerPointWeb\obj\Debug\HelloWorldPowerPointWeb.dll
+c:\users\mselmer\documents\visual studio 2017\Projects\HelloWorldPowerPoint\HelloWorldPowerPointWeb\obj\Debug\HelloWorldPowerPointWeb.pdb
